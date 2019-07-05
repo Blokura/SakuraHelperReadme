@@ -12,4 +12,9 @@
 * [抽奖动态转发](about/dongtai.md)
 * [节奏风暴](about/storm.md)
 * [微信推送](about/wechat.md)
+* [互助投币](about/share.md)
+
+## FAQ
+
+* [小黑屋](faq/xiao-hei-wu.md)
 

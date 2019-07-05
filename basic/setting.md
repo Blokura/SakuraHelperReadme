@@ -4,7 +4,7 @@ description: 本章讲述的是樱花助手的功能设置与说明。
 
 # 配置与功能说明
 
-![&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%286%29.png)
+![&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%287%29.png)
 
 在软件功能选择区勾选需要的功能，然后点击 **开始挂机** 即可。
 
@@ -54,5 +54,9 @@ description: 本章讲述的是樱花助手的功能设置与说明。
 
 **微信每日推送**：
 
+{% page-ref page="../about/wechat.md" %}
+
 **互助投币**：
+
+{% page-ref page="../about/share.md" %}
 
