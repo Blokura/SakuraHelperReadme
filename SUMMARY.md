@@ -16,5 +16,6 @@
 
 ## FAQ
 
-* [小黑屋](faq/xiao-hei-wu.md)
+* [小黑屋](faq/ban.md)
+* [好感度](faq/like.md)
 
