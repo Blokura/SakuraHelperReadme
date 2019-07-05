@@ -11,5 +11,5 @@
 
 * [抽奖动态转发](about/dongtai.md)
 * [节奏风暴](about/storm.md)
-* [微信推送](about/wei-xin-tui-song.md)
+* [微信推送](about/wechat.md)
 
