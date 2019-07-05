@@ -18,4 +18,5 @@
 
 * [小黑屋](faq/ban.md)
 * [好感度](faq/like.md)
+* [樱花助手实时状态](https://status.bilibili.wiki/)
 
