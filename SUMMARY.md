@@ -13,6 +13,7 @@
 * [节奏风暴](about/storm.md)
 * [微信推送](about/wechat.md)
 * [互助投币](about/share.md)
+* [网易云音乐](about/netease.md)
 
 ## FAQ
 

@@ -6,7 +6,7 @@ description: 本章讲述的是关于节奏风暴的配置。
 
 单击节奏风暴选项，唤出节奏风暴客户端界面。
 
-![&#x8282;&#x594F;&#x98CE;&#x66B4;&#x5BA2;&#x6237;&#x7AEF;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2811%29.png)
+![&#x8282;&#x594F;&#x98CE;&#x66B4;&#x5BA2;&#x6237;&#x7AEF;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2814%29.png)
 
 ## 线程、次数、延迟配置
 
@@ -26,7 +26,7 @@ description: 本章讲述的是关于节奏风暴的配置。
 
 ### 出现类似乱码怎么办？
 
-![IP&#x88AB;&#x5C01;&#x7981;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%286%29.png)
+![IP&#x88AB;&#x5C01;&#x7981;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%287%29.png)
 
 此情况是你的 线程数太大 且 延迟太小 导致请求过快，B站服务器拒绝了IP访问。
 
@@ -40,5 +40,5 @@ description: 本章讲述的是关于节奏风暴的配置。
 
 ![&#x98CE;&#x66B4;&#x9ED1;&#x5C4B;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%282%29.png)
 
-![&#x6B63;&#x5E38;&#x98CE;&#x66B4;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2812%29.png)
+![&#x6B63;&#x5E38;&#x98CE;&#x66B4;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2816%29.png)
 
