@@ -21,3 +21,7 @@
 * [好感度](faq/like.md)
 * [樱花助手实时状态](https://status.bilibili.wiki/)
 
+## 更新记录
+
+* [更新记录](geng-xin-ji-lu/changelog.md)
+
