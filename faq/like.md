@@ -36,7 +36,7 @@ B博动态抽奖自动转发：300好感度
 
 3、对樱花助手有重大贡献的，额外奖励好感度。
 
-4、投喂可获得好感度1元=10好感度 [https://pay.moebili.com](https://pay.moebili.com)
+4、投喂可获得好感度1元=5好感度 [https://pay.moebili.com](https://pay.moebili.com)
 
 ## 好感度会过期吗？会消失不见吗？
 
