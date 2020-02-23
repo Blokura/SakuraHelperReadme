@@ -4,10 +4,6 @@ description: 本章讲述的是关于节奏风暴的配置。
 
 # 节奏风暴
 
-单击节奏风暴选项，唤出节奏风暴客户端界面。
-
-![&#x8282;&#x594F;&#x98CE;&#x66B4;&#x5BA2;&#x6237;&#x7AEF;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2814%29.png)
-
 ## 线程、次数、延迟配置
 
 **线程**代表的是一个节奏风暴同时使用多少个线程抽奖
@@ -26,7 +22,7 @@ description: 本章讲述的是关于节奏风暴的配置。
 
 ### 出现类似乱码怎么办？
 
-![IP&#x88AB;&#x5C01;&#x7981;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%287%29.png)
+![IP&#x88AB;&#x5C01;&#x7981;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2812%29.png)
 
 此情况是你的 线程数太大 且 延迟太小 导致请求过快，B站服务器拒绝了IP访问。
 
@@ -38,7 +34,7 @@ description: 本章讲述的是关于节奏风暴的配置。
 
 当提示信息中含有"data":\[\]时则代表该账号已进入节奏风暴黑屋，无法领取节奏风暴奖励。
 
-![&#x98CE;&#x66B4;&#x9ED1;&#x5C4B;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%282%29.png)
+![&#x98CE;&#x66B4;&#x9ED1;&#x5C4B;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%285%29.png)
 
-![&#x6B63;&#x5E38;&#x98CE;&#x66B4;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2816%29.png)
+![&#x6B63;&#x5E38;&#x98CE;&#x66B4;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2827%29.png)
 

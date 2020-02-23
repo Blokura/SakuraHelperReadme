@@ -1,26 +1,23 @@
 # 更新记录
 
-## 4.2.7 - 2019-08-31
+## Getting Super Powers
 
-### Fixed
+Becoming a super hero is a fairly straight forward process:
 
-* 修改了风纪投票逻辑结构
-* 修改了一些好感度的设计
+```
+$ give me super-powers
+```
 
-### Changed
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-* 修改大量文本提示,更加清爽
+Once you're strong enough, save the world:
 
-## 4.2.6 - 2019-08-25
-
-### Added
-
-* 打开软件1小时未开始挂机自动开始
-
-### Fixed
-
-* 清空今日包裹错误问题
-* 1000好感度跳投喂界面问题
-
-
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
 

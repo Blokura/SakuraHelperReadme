@@ -5,7 +5,8 @@
 ## 基本操作 <a id="basic"></a>
 
 * [安装与启动](basic/install.md)
-* [配置与功能说明](basic/setting.md)
+* [设置向导](basic/guide.md)
+* [软件功能使用](basic/setting.md)
 
 ## 功能说明 <a id="about"></a>
 

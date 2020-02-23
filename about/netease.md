@@ -16,21 +16,21 @@ description: 本章将讲述的是网易云音乐登录问题
 
 3.按下F12键，打开开发人员工具，选择Network（中文版为网络）
 
-![Network](../.gitbook/assets/image%20%289%29.png)
+![Network](../.gitbook/assets/image%20%2815%29.png)
 
 4.浏览器地址框中输入网址 [https://music.163.com/weapi/point/dailyTask](https://music.163.com/weapi/point/dailyTask) 并回车
 
 5.在开发人员工具中找到dailyTask
 
-![dailyTask](../.gitbook/assets/image%20%283%29.png)
+![dailyTask](../.gitbook/assets/image%20%286%29.png)
 
 6.下拉看到cookie，将MUSIC\_U以及\_\_csrf值复制下来
 
-![MUSIC\_U&amp;\_\_csrf](../.gitbook/assets/image%20%2811%29.png)
+![MUSIC\_U&amp;\_\_csrf](../.gitbook/assets/image%20%2821%29.png)
 
 7.打开助手文件夹，找到【网易云音乐】文件夹（没有可以手动创建），然后新建cookie.txt文件，将刚刚复制的MUSIC\_U和\_\_csrf复制进去即可。
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="info" %}
 注意保存格式如上图 直接复制下来黏贴就是正确格式来的!!
