@@ -7,6 +7,7 @@
 * [安装与启动](basic/install.md)
 * [设置向导](basic/guide.md)
 * [软件功能使用](basic/setting.md)
+* [如何购买卡密](basic/buycard.md)
 
 ## 功能说明 <a id="about"></a>
 
@@ -23,6 +24,4 @@
 * [樱花助手实时状态](https://status.bilibili.wiki/)
 
 ## 更新记录
-
-* [更新记录](geng-xin-ji-lu/changelog.md)
 
