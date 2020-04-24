@@ -21,7 +21,10 @@
 
 * [小黑屋](faq/ban.md)
 * [好感度](faq/like.md)
+* [个人版与梦想版区别](faq/version.md)
 * [樱花助手实时状态](https://status.bilibili.wiki/)
 
-## 更新记录
+## 疑难杂症 <a id="questions"></a>
+
+* [软件内出现乱码怎么办](luanma.md)
 

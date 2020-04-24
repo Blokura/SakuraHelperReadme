@@ -6,7 +6,7 @@ description: 本章讲述的是微信推送教程。
 
 微信推送是樱花助手独家功能之一，其用途是每日推送当天的抽奖数据或者是账号中奖信息、小黑屋提醒。微信推送是基于微信公众号的功能，因此使用时需要关注微信公众号。
 
-![&#x5FAE;&#x4FE1;&#x63A8;&#x9001;&#x8BBE;&#x7F6E;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%289%29.png)
+![&#x5FAE;&#x4FE1;&#x63A8;&#x9001;&#x8BBE;&#x7F6E;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2810%29.png)
 
 ### 微信推送绑定教程
 
@@ -20,9 +20,9 @@ description: 本章讲述的是微信推送教程。
 
 3.再次扫描软件上的二维码进行绑定，直到看到如下提示。
 
-![&#x7ED1;&#x5B9A;&#x6210;&#x529F;&#x7F51;&#x9875;&#x63D0;&#x793A;](../.gitbook/assets/image%20%2810%29.png)
+![&#x7ED1;&#x5B9A;&#x6210;&#x529F;&#x7F51;&#x9875;&#x63D0;&#x793A;](../.gitbook/assets/image%20%2812%29.png)
 
-![&#x7ED1;&#x5B9A;&#x6210;&#x529F;&#x5FAE;&#x4FE1;&#x63A8;&#x9001;](../.gitbook/assets/image%20%287%29.png)
+![&#x7ED1;&#x5B9A;&#x6210;&#x529F;&#x5FAE;&#x4FE1;&#x63A8;&#x9001;](../.gitbook/assets/image%20%288%29.png)
 
 此时，微信绑定成功。
 
