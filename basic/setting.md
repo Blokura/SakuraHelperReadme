@@ -4,13 +4,13 @@ description: 本章讲述的是樱花助手的软件功能使用。
 
 # 软件功能使用
 
-![&#x8F6F;&#x4EF6;&#x4E3B;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2839%29.png)
+![&#x8F6F;&#x4EF6;&#x4E3B;&#x754C;&#x9762;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2834%29.png)
 
 ## 各项功能说明
 
 ### 首页按钮功能介绍
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 **插件列表**：打开插件列表，用于展现所有已放置在plugin文件夹中的插件，并可以启用/停用，载入等。
 
@@ -43,8 +43,6 @@ description: 本章讲述的是樱花助手的软件功能使用。
 **漫画签到**：哔哩哔哩漫画APP签到，领取漫画积分，兑换免费漫读券。
 
 **友爱社福利树开启**：直播友爱社自动开启所有福利，需要账号时友爱社社长/副社长。
-
-![&#x53CB;&#x7231;&#x793E;&#x798F;&#x5229;](../.gitbook/assets/image%20%289%29.png)
 
 #### \*\*\*\*
 
@@ -82,7 +80,7 @@ description: 本章讲述的是樱花助手的软件功能使用。
 
 ### **其他设置**
 
-![&#x5176;&#x4ED6;&#x8BBE;&#x7F6E;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2831%29.png)
+![&#x5176;&#x4ED6;&#x8BBE;&#x7F6E;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/image%20%2828%29.png)
 
 通过其他设置，可以对高级功能进行配置。
 
@@ -94,7 +92,7 @@ description: 本章讲述的是樱花助手的软件功能使用。
 
 #### 天选设置
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 **天选正则例子**：
 
@@ -102,7 +100,7 @@ description: 本章讲述的是樱花助手的软件功能使用。
 
 #### 节奏风暴
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 {% page-ref page="../about/storm.md" %}
 
